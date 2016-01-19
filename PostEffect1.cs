@@ -13,5 +13,6 @@ public class PostEffect1 : MonoBehaviour {
 
         Debug.Log("figaks");
 
+
 	}
 }
