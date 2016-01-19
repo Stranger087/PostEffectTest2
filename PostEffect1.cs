@@ -12,6 +12,8 @@ public class PostEffect1 : MonoBehaviour {
 	void Update () {
 
         Debug.Log("sos");
-	
-	}
+
+        Debug.Log("figaks");
+
+    }
 }
