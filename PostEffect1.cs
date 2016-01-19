@@ -11,7 +11,9 @@ public class PostEffect1 : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+        Debug.Log("sos");
+
         Debug.Log("figaks");
 
-	}
+    }
 }
